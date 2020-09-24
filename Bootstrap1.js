@@ -59,6 +59,7 @@ const allInstrument = [
         price: 2300,
         typeID: 3
     }
+    
 ];
 
 function instrumentTemplate() {
